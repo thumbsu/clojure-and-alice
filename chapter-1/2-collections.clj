@@ -166,7 +166,3 @@
        {:jam1 "red" :jam4 "yellow" :jam2 "white"}
        {:jam1 "black" :jam3 "green"})
 ;=> {:jam1 "black", :jam3 "green" :jam4 "yellow", :jam2 "white"}
-
-
-;------;
-;** 4. 집합 컬렉션
