@@ -15,11 +15,11 @@
 ;=> 2 ;클로저 식의 평가 결과
 ```
 - 책에 나온 코드가 아닌 연습 코드일 땐 (*연습)을 붙임
-- 코드에 대한 설명를 블로그에 올리고 나면 해당 폴더의 README 문서에 링크를 올림
+- 코드에 대한 설명를 블로그에 올리고 나면 아래 목차에 링크 붙임
 ### 블로그 정리 보기
 - [지수와로그 클로저 정리 목록](https://thumbsu.github.io/tags/clojure/)
 ### 목차
 1. chapter-1 클로저의 구조
-> - 1-simple-value (단순값으로 처음 시작하기)
+> - 1-simple-value ([단순값으로 처음 시작하기](https://thumbsu.github.io/2018/09/26/get-started-clojure/)) 
 > - 2-collections (클로저 데이터를 컬렉션에 담기 - 리스트, 벡터, 맵)
 > - 3-collections(Sets) (집합을 사용해 유일한 데이터의 컬렉션 표현하기)
