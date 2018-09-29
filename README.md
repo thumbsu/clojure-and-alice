@@ -21,5 +21,5 @@
 ### 목차
 1. chapter-1 클로저의 구조
 > - 1-simple-value ([단순값으로 처음 시작하기](https://thumbsu.github.io/2018/09/26/get-started-clojure/)) 
-> - 2-collections (클로저 데이터를 컬렉션에 담기 - 리스트, 벡터, 맵)
+> - 2-collections ([클로저 데이터를 컬렉션에 담기 - 리스트, 벡터, 맵](https://thumbsu.github.io/2018/09/27/clojure-collections-1/))
 > - 3-collections(Sets) (집합을 사용해 유일한 데이터의 컬렉션 표현하기)
