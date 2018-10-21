@@ -24,3 +24,5 @@
 > - 2-collections ([클로저 데이터를 컬렉션에 담기 - 리스트, 벡터, 맵](https://thumbsu.github.io/2018/09/27/clojure-collections-1/))
 > - 3-collections(Sets) ([집합을 사용해 유일한 데이터의 컬렉션 표현하기](https://thumbsu.github.io/2018/10/02/clojure-collections-2/))
 > - 4-symbol-and-binding ([심볼과 바인딩, 함수만들기, 이름공간](https://thumbsu.github.io/2018/10/03/symbols-and-function]))
+2. chapter-2 제어문과 함수형 변환
+> - 1-controlling-the-flow-with-logic (논리에 따라 흐름 제어하기)
