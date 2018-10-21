@@ -26,3 +26,5 @@
 > - 4-symbol-and-binding ([심볼과 바인딩, 함수만들기, 이름공간](https://thumbsu.github.io/2018/10/03/symbols-and-function]))
 2. chapter-2 제어문과 함수형 변환
 > - 1-controlling-the-flow-with-logic (논리에 따라 흐름 제어하기)
+> - 2-functions-creating-functions (함수를 만드는 함수)
+> - 3-destructing (구조분해)
