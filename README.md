@@ -30,3 +30,4 @@
 > - 3-destructing (구조분해)
 > - 4-the-power-of-laziness (지연의 힘)
 > - 5-recursion (재귀)
+> - 6-the-functional-shape-of-data-transformations (함수형 프로그래밍에서의 데이터 변환)
