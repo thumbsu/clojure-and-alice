@@ -31,3 +31,5 @@
 > - 4-the-power-of-laziness (지연의 힘)
 > - 5-recursion (재귀)
 > - 6-the-functional-shape-of-data-transformations (함수형 프로그래밍에서의 데이터 변환)
+3. chapter-3 상태와 병행성 - 현실 세계의 상태와 병행성 다루기
+> - 1-atom (독립적인 항목에 아톰 사용하기)
